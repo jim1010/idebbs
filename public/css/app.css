@@ -8430,6 +8430,28 @@ body {
   margin-bottom: 0px;
 }
 
+.users-show-page .nav-tabs {
+  margin-bottom: 20px;
+}
+
+.users-show-page .nav-tabs > li.active > a {
+  background-color: #fff;
+}
+
+.users-show-page .list-group .list-group-item {
+  border: none;
+  margin-bottom: 0px;
+  border-bottom: 1px solid #efefef;
+}
+
+.users-show-page .list-group .list-group-item .meta {
+  color: #b3b3b3;
+}
+
+.users-show-page .pagination {
+  margin: 12px 0;
+}
+
 /* Topic Index Page */
 
 .topics-index-page .topic-list .nav > li > a,
